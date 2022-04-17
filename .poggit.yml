@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Digueloulou12/ChatLocker
+build-by-default: true
+branches:
+- main
+projects:
+  ChatLocker:
+    path: ""
+...
